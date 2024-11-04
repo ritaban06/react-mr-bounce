@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-mr-bounce/static/css/main.799e85e5.css",
+    "main.js": "/react-mr-bounce/static/js/main.92e92546.js",
+    "static/js/453.bed4f471.chunk.js": "/react-mr-bounce/static/js/453.bed4f471.chunk.js",
+    "index.html": "/react-mr-bounce/index.html",
+    "main.799e85e5.css.map": "/react-mr-bounce/static/css/main.799e85e5.css.map",
+    "main.92e92546.js.map": "/react-mr-bounce/static/js/main.92e92546.js.map",
+    "453.bed4f471.chunk.js.map": "/react-mr-bounce/static/js/453.bed4f471.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.92e92546.js"
+  ]
+}
